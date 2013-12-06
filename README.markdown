@@ -1,3 +1,10 @@
+This fork exists
+================
+Because turblinks
+
+Somewhere in your coffee manually run:
+$('.rest-in-place').restInPlace()
+
 REST in Place
 ===========
                                   _______
