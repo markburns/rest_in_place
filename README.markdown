@@ -1,6 +1,6 @@
 This fork exists
 ================
-Because turblinks
+Because turbolinks
 
 Somewhere in your coffee manually run:
 $('.rest-in-place').restInPlace()
